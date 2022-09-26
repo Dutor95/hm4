@@ -1,2 +1,4 @@
 # hm4
-HomeWork
+- HomeWork
+
+`docker compose up`
